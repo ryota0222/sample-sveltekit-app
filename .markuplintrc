@@ -1,0 +1,9 @@
+{
+	"parser": {
+		".svelte$": "@markuplint/svelte-parser",
+		".html$": "@markuplint/svelte-parser/kit"
+	},
+	"extends": [
+		"markuplint:recommended"
+	]
+}
